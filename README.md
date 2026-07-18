@@ -7,5 +7,7 @@ My objective is to master core Java concepts by applying them directly in practi
 **#How to use it:**
 
 1.Open the application.
+
 2.Use the search bar to type the Java concept you want to understand.
+
 3.Once the relevant result appears, simply click on it to view the correct syntax and implementation details.
